@@ -8,13 +8,13 @@ This project demonstrates how SEC-DED (Single Error Correction, Double Error Det
 
 ## Live Demo
 
-[Open Simulator](https://umkhanov.github.io/HammingCode/?utm_source=chatgpt.com)
+[Open Simulator](https://umkhanov.github.io/hamming-sec-ded-simulator)
 
 ---
 
 ## Demo Video
 
-[Watch Demo Video](https://youtu.be/2zVlpZiWLIo?utm_source=chatgpt.com)
+[Watch Demo Video](https://youtu.be/2zVlpZiWLIo)
 
 ---
 

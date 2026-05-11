@@ -65,8 +65,8 @@ This project demonstrates how SEC-DED (Single Error Correction, Double Error Det
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/encoding-view.png" width="70%">
-  <img src="screenshots/error-detection.png" width="70%">
+  <img src="screenshots/encoding-view.png" width="45%">
+  <img src="screenshots/error-detection.png" width="45%">
 </p>
 
 ---
@@ -100,7 +100,7 @@ hamming-sec-ded-simulator/
 ## Example Input
 
 ```text
-00111001
+1001101001101111
 ```
 
 ---
@@ -113,5 +113,5 @@ This project was developed as part of a Computer Architecture course assignment 
 
 ## Author
 
-Muhammad Umkhanov  
+Magomed Umkhanov  
 Computer Engineering Student
